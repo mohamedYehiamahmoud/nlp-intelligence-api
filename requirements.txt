@@ -2,7 +2,10 @@ fastapi
 uvicorn
 pydantic
 scikit-learn
+joblib
 transformers
 torch
-datasets
+sentencepiece
 python-dotenv
+requests
+pandas
